@@ -6,10 +6,10 @@ entries:
     created: "2022-11-22T00:14:55.049485+07:00"
     description: CHART FOR GIT REPO HOSTING 2
     digest: 646d8347ed5e496e35e6dc10398f06959bc3defefdd66757f6ef8ea2a691b02c
-    name: git-chart-2
+    name: gitchart2
     type: application
     urls:
-    - git-chart-2-0.1.1.tgz
+    - gitchart2-0.1.1.tgz
     version: 0.1.1
   gitrepotest:
   - apiVersion: v2
